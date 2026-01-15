@@ -1,6 +1,6 @@
 # Disagreement-Aware Calibration
 
-This is the official implementation for [Your Pre-trained LLM is Secretly an Unsupervised Confidence Calibrator](https://arxiv.org/pdf/2505.16690) at NeurIPS 2025.
+This is the official implementation for [Your Pre-trained LLM is Secretly an Unsupervised Confidence Calibrator](https://openreview.net/pdf?id=I4PJYZvfW5) at NeurIPS 2025.
 
 This repository provides a small, modular pipeline for evaluating disagreement-aware calibration on multiple-choice question answering models. The code is structured around three packages:
 
